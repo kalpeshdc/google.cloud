@@ -4,6 +4,14 @@ Google.Cloud Release Notes
 
 .. contents:: Topics
 
+v1.12.0
+=======
+
+Minor Changes
+-------------
+
+- gcp_sql_instance - add ``allocated_ip_range`` to ``settings.ip_configuration`` for private IP Cloud SQL instances (name of the allocated IP range in the VPC).
+
 v1.11.0
 =======
 
